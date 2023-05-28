@@ -1,0 +1,1 @@
+The purpose of this site is to contain some projects that serve as a presentation of the skills learned during the studies in the area of Information Technology.
